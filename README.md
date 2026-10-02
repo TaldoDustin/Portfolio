@@ -20,18 +20,9 @@ npx serve .
 python3 -m http.server 8000
 ```
 
-## Publicar no GitHub
+## Site no ar
 
-```bash
-git init
-git add .
-git commit -m "Primeira versão do portfólio"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-git push -u origin main
-```
-
-Para colocar no ar de graça: no repositório, vá em **Settings → Pages**, escolha a branch `main` e a pasta `/ (root)`.
+Publicado pelo GitHub Pages: https://isaque-souza.github.io/souza-tech/
 
 ## Logo animada
 
